@@ -14,3 +14,17 @@ This study attempts to:
 - Find links between the two datasets.
 - Find causation of the accidents and locate abnormality.
 - Find real applicable causes that  describe the findings.
+
+## Conclusions and Recommendations
+
+**Findings:**
+
+- The issueing of the licenses and the accident numbers are correlated.
+- The mountainous regions has the most accidents/deaths in the country.
+- The overall accidents is reduced in 2017 compared to 2016.
+
+**Conclusion**
+
+Improve the infrastructure of the the regions with the most accidents.
+Add rail protection on the mountain roads.
+Stricter traffic laws might be beneficial on riskier road that has bad infrastructures.
