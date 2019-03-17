@@ -28,3 +28,7 @@ This study attempts to:
 Improve the infrastructure of the the regions with the most accidents.
 Add rail protection on the mountain roads.
 Stricter traffic laws might be beneficial on riskier road that has bad infrastructures.
+
+
+**BLOG**
+https://medium.com/search?q=traffic%20accidents%20in%20saudi
